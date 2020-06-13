@@ -9,4 +9,4 @@ A collection of #VogueChallenge images by Vader Media.
 
 All rights reserved
 
-[logo]: https://github.com/vadermedia/logos/blob/master/productions/dark-transparent.png?raw=true
+[logo]: https://github.com/vadermedia/logos/blob/master/productions/dark-transparent.png?raw=true "VOGUE CHALLENGE -Vader Productions"
