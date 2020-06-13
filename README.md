@@ -5,6 +5,8 @@
 ## Description
 A collection of #VogueChallenge images by Vader Media.
 
+***
+
 ## Showcase
 ![alt text][i]
 
@@ -36,6 +38,8 @@ A collection of #VogueChallenge images by Vader Media.
 
 [iiiiiii]: https://github.com/Shandukandaba/vogue-challenge/blob/master/vader%20media%20productions%20vogue%207.jpg?raw=true "VOGUE CHALLENGE | Vader Productions"
 
+***
+
 ### Vader Music
 
 [Vader Music Podcast on Apple Music](https://podcasts.apple.com/za/podcast/vader-music/id1517800735) 
@@ -43,6 +47,8 @@ A collection of #VogueChallenge images by Vader Media.
 [Vader Music Podcast on Google Podcasts](https://podcasts.google.com/?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy8yMDk0OTcwNC9wb2RjYXN0L3Jzcw) 
 
 [Vader Music Podcast on Spotify](https://open.spotify.com/show/28rXTA0TRNHUqHwyiWp6aU) 
+
+***
 
 ### Socials
 [Shandukandaba on Instagram](https://www.instagram.com/shandukandaba/)
@@ -54,5 +60,7 @@ A collection of #VogueChallenge images by Vader Media.
 [Vader Productions on Twitter](https://twitter.com/vaderprod)
 
 [Vader Productions on YouTube](https://www.youtube.com/channel/UCGbuQkfWMnmrBrLv7s45XYg)
+
+***
 
 ###### Copyright &copy; Vader Media (Pty) LTD
