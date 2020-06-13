@@ -35,3 +35,26 @@ A collection of #VogueChallenge images by Vader Media.
 [iiiiii]: https://github.com/Shandukandaba/vogue-challenge/blob/master/vader%20media%20productions%20vogue%206.jpg?raw=true "VOGUE CHALLENGE | Vader Productions"
 
 [iiiiiii]: https://github.com/Shandukandaba/vogue-challenge/blob/master/vader%20media%20productions%20vogue%207.jpg?raw=true "VOGUE CHALLENGE | Vader Productions"
+
+### Vader Music
+
+<iframe src="https://audiomack.com/embed/playlist/vadermedia/vader-music-mixes?background=1&color=ffffff" scrolling="no" width="100%" height="400" scrollbars="no" frameborder="0"></iframe>
+
+[Vader Music Podcast on Apple Music](https://podcasts.apple.com/za/podcast/vader-music/id1517800735) 
+
+[Vader Music Podcast on Google Podcasts](https://podcasts.google.com/?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy8yMDk0OTcwNC9wb2RjYXN0L3Jzcw) 
+
+[Vader Music Podcast on Spotify](https://podcasts.apple.com/za/podcast/vader-music/id1517800735) 
+
+### Socials
+[Shandukandaba on Instagram](https://www.instagram.com/shandukandaba/)
+
+[Vader Media on Instagram](https://www.instagram.com/vadermedia_/)
+
+[Shandukandaba on Twitter](https://twitter.com/shandukandabaF)
+
+[Vader Productions on Twitter](https://twitter.com/vaderprod)
+
+[Vader Productions on YouTube](https://www.youtube.com/channel/UCGbuQkfWMnmrBrLv7s45XYg)
+
+###### Copyright &copy; Vader Media (Pty) LTD
