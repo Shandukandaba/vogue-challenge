@@ -38,13 +38,11 @@ A collection of #VogueChallenge images by Vader Media.
 
 ### Vader Music
 
-<iframe src="https://audiomack.com/embed/playlist/vadermedia/vader-music-mixes?background=1&color=ffffff" scrolling="no" width="100%" height="400" scrollbars="no" frameborder="0"></iframe>
-
 [Vader Music Podcast on Apple Music](https://podcasts.apple.com/za/podcast/vader-music/id1517800735) 
 
 [Vader Music Podcast on Google Podcasts](https://podcasts.google.com/?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy8yMDk0OTcwNC9wb2RjYXN0L3Jzcw) 
 
-[Vader Music Podcast on Spotify](https://podcasts.apple.com/za/podcast/vader-music/id1517800735) 
+[Vader Music Podcast on Spotify](https://open.spotify.com/show/28rXTA0TRNHUqHwyiWp6aU) 
 
 ### Socials
 [Shandukandaba on Instagram](https://www.instagram.com/shandukandaba/)
