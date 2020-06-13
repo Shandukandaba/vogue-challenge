@@ -32,7 +32,7 @@ A collection of #VogueChallenge images by Vader Media.
 
 [iiii]: https://github.com/Shandukandaba/vogue-challenge/blob/master/vader%20media%20productions%20vogue%204.png?raw=true "VOGUE CHALLENGE | Vader Productions"
 
-[iiiii]: https://github.com/Shandukandaba/vogue-challenge/blob/master/vader%20media%20productions%20vogue%205.jpg?raw=true "VOGUE CHALLENGE | Vader Productions"
+[iiiii]: https://github.com/Shandukandaba/vogue-challenge/blob/master/vader%20media%20productions%20vogue%205.png?raw=true "VOGUE CHALLENGE | Vader Productions"
 
 [iiiiii]: https://github.com/Shandukandaba/vogue-challenge/blob/master/vader%20media%20productions%20vogue%206.jpg?raw=true "VOGUE CHALLENGE | Vader Productions"
 
